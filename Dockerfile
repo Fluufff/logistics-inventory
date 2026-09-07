@@ -1,4 +1,4 @@
-# syntax=docker.io/docker/dockerfile:1.21.0
+# syntax=docker.io/docker/dockerfile:1.27.0
 
 FROM debian:12.15-slim AS base-image
 FROM node:22 AS web-builder
